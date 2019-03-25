@@ -1,0 +1,2 @@
+<?php ECHO "hello wolrd!"
+?>
