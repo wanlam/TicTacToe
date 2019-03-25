@@ -1,2 +1,3 @@
-<?php ECHO "hello wolrd!"
-?>
+<?php 
+
+echo "hello_world!";
